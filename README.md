@@ -5,4 +5,7 @@ This repository contains a collection of my tiny projects that I try to make eve
 ## Projects
 
 1. [Job Tracker](https://github.com/your-username/tiny-projects/tree/main/JobTracker)  
-   A simple web app to track job applications with a counter for daily submissions.
+   A simple website to track job applications with a counter for daily submissions.
+2. [Valentines](https://github.com/your-username/tiny-projects/tree/main/Valentines)  
+   A simple website to ask your valentine out to be your date!
+
